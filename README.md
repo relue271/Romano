@@ -1,5 +1,5 @@
 # Romano
-tradução de numero arabico para numero romano
+tradução de numero alfanumerico para numero romano
 
 entrada: 123
 saida: CXXIII
@@ -7,6 +7,7 @@ saida: CXXIII
 entrada: 1234
 saida: MCCXXXIV
 
+legenda:
 I - 1
 V - 5
 X - 10
