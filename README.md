@@ -21,6 +21,9 @@ saida: MCCXXXIV
 
 ------------------------
 
+letras maiúsculas: I, V, X, L, C, D e M.
+
+------------------------
 
 legenda:
 1 = I
