@@ -36,20 +36,6 @@ class romano{
         //String[] StrArrayNumRomano = new String[20];
         
         
-        // unidade
-        /*
-        if (resto == 1) { StrArrayNumRomano[k] = "I"; }
-        if (resto == 2) { StrArrayNumRomano[k] = "II"; }
-        if (resto == 3) { StrArrayNumRomano[k] = "III"; }
-        if (resto == 4) { StrArrayNumRomano[k] = "IV"; }
-        if (resto == 5) { StrArrayNumRomano[k] = "V"; }
-        if (resto == 6) { StrArrayNumRomano[k] = "VI"; }
-        if (resto == 7) { StrArrayNumRomano[k] = "VII"; }
-        if (resto == 8) { StrArrayNumRomano[k] = "VIII"; }
-        if (resto == 9) { StrArrayNumRomano[k] = "IX"; }
-        System.out.print(" " + StrArrayNumRomano[k]);
-        */
-
 
         // dezena
 
